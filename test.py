@@ -1,2 +1,2 @@
 print("hi outskillers")
-print("Happy learning")
+print("deleted and printed")
